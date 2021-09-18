@@ -1,0 +1,123 @@
+body {
+  font-family: "-apple-system", monospace;
+  text-align: center;
+  background-image: url("https://media4.giphy.com/media/xT5LMtKvZUkN2LV7Ik/giphy.gif?cid=790b761113fc5eba2d9c795fd1644f001a323be82b6de51f&rid=giphy.gif&ct=g");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #f8caca;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: rgb(228, 89, 198);
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.input {
+  text-align: center;
+}
+
+.page-logo {
+  width: 120px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#listaFilmes img {
+  margin: 10px;
+}
+
+.form-wrapper {
+  margin: 0 0 15px;
+}
+
+.form-wrapper input {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+
+.form-wrapper button {
+  border: 0;
+  color: #f8caca;
+  background: #993366;
+  font-weight: bold;
+  padding: 15px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form-wrapper button:hover {
+  opacity: 0.8;
+}
+
+iframe {
+  width: 343px;
+  height: 193px;
+  margin: 10px;
+  border-radius: 1px;
+  border: dotted rgb(228, 89, 198);
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#listaFilmes img {
+  margin: 10px;
+  max-height: 250px;
+}
+
+.form-wrapper {
+  margin: 0 0 15px;
+}
+
+.form-wrapper input {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 15px;
+}
+
+.form-wrapper button {
+  border: 0;
+  color: #ffffff;
+  background: #da1e26;
+  font-weight: bold;
+  padding: 15px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form-wrapper button:hover {
+  opacity: 0.8;
+}
